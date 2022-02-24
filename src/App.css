@@ -34,5 +34,8 @@
   width: 40%;
   margin-bottom: 25px;
   border: 1px solid black;
+}
 
+.linegraph {
+  width: 100%;
 }
